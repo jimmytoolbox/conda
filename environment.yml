@@ -1,4 +1,4 @@
-name: example-environment
+name: dev
 channels:
   - conda-forge
 dependencies:
